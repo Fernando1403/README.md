@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Oi Tudo bem sou o Fernando, Estudante de Programação e desenvolvimento</div>  
+### <div align="center">Oi Tudo bem sou o Fernando, Estudante de Programação em desenvolvimento</div>  
   
 
 - ✏️ Estou no 3º ano do ensino médio técnico da Fiap School  
