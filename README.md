@@ -6,10 +6,10 @@
 ### <div align="center">Oi Tudo bem sou o Fernando, Estudante de Programação em desenvolvimento</div>  
   
 
-- ✏️ Estou no 3º ano do ensino médio técnico da Fiap School  
+- ✏️ Estou cursando Engenharia de Software na FIAP  
   
 
-- ❓ Atualmente estudando React, Ionic e trabalhando com x++ no Dynamics 365  
+- ❓ Atualmente estudando React e trabalhando com x++ no Dynamics 365  
   
 
 - ⚽ Atleta  
