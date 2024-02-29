@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Oi Tudo bem sou o Fernando, Estudante de Programação em desenvolvimento</div>  
+### <div align="center">Oi Tudo bem sou o Fernando, Sou DEV Junior</div>  
   
 
 - ✏️ Estou cursando Engenharia de Software na FIAP  
