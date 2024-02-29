@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá 👋, Eu sou o Fernando<br><br>✏️ Estou cursando Engenharia de Software na FIAP<br><br>🔭 Atualmente estou trabalhando com **X++, Microsoft Dynamics 365<br>
+Olá 👋, Eu sou o Fernando<br><br>✏️ Estou cursando Engenharia de Software na FIAP<br><br>🔭 Atualmente estou trabalhando com X++, Microsoft Dynamics 365<br>
 
 
 ## 🌐 Socials:
